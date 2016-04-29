@@ -1,0 +1,15 @@
+{
+	"name": "show-tabs",
+	"title": "Show Tabs",
+	"description": "Adds border to tabs.",
+	"homepage": "https://github.com/Fraser-Greenlee/show-tabs/tree/master",
+	"version": "0.0.1",
+	"author": "Fraser-Greenlee",
+	"license": "MIT",
+	"files": [
+		"main.css",
+		"main.js"
+	],
+	"contributors": ["Fraser-Greenlee"],
+	"keywords": ["tabs","text","theme"]
+}

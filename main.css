@@ -1,0 +1,4 @@
+.cm-tab {
+	border-left: 1px dotted rgba(0, 0, 0, 0.15);
+	box-sizing: border-box;
+}
