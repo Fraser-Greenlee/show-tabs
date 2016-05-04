@@ -1,4 +1,11 @@
+.cm-comment .cm-tab {
+	border-left: 1px solid rgba(0,0,0,0) !important;
+	box-sizing: content-box !important;
+}
 .cm-tab {
 	border-left: 1px dotted rgba(0, 0, 0, 0.15);
 	box-sizing: border-box;
+}
+.cm-s-dark-theme .cm-tab {
+	border-left: 1px dotted rgba(255, 255, 255, 0.24);
 }
